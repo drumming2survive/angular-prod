@@ -1,0 +1,13 @@
+Crear un repo llamado angular-prod
+
+git remote add origin https://github.com/drumming2survive/angular-prod.git
+git branch -M main
+git push -u origin main
+
+Crear una rama prod y subirla a github
+
+Crear un token en https://github.com/settings/tokens
+
+Crear un secret
+
+Configurar GitHub Pages
